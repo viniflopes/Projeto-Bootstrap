@@ -7,3 +7,9 @@
     object-fit: cover;
     height: 400px;
 }
+.fonteTitulo {
+    font-family: 'Pacifico', cursive;
+}
+.corEspecial {
+    color: darkred;
+}
