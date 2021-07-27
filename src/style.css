@@ -1,3 +1,6 @@
+.card.cardLargura {
+    max-width: 18rem;
+} 
 .imagemCarroselUm {
     object-fit: cover;
     object-position: 0 80%;
@@ -12,4 +15,15 @@
 }
 .corEspecial {
     color: darkred;
+}
+.card.bordaCorEspecial {
+    border-color: darkred;
+}
+.btn.botaoCorEspecial {
+    background-color: darkred;
+    color: white;
+}
+.cardPosicaoImagem {
+    object-fit: cover;
+    height: 200px;
 }
