@@ -14,7 +14,7 @@
     font-family: 'Pacifico', cursive;
 }
 .corEspecial {
-    color: darkred;
+    color: darkred!important;
 }
 .card.bordaCorEspecial {
     border-color: darkred;
